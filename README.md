@@ -11,6 +11,7 @@
 
 ### Collaboration Framework
 * All datasets and metadata for training the model are HERE: https://osf.io/jts9d/
+* Issues and discussions on specific topics can be made HERE: https://github.com/code4sac/openspecy/issues
 * We prefer you use the fork-branch-pull workflow to contribute to this repo but you can also make pull requests if that is easier for you. 
 * Try to use tools which allow models to be exported in hd5 format because that will allow us to port between langagues. 
 * Feel free to code in whatever language you are familar with but towards the end of the development, we will translate the winning model into one language. 
